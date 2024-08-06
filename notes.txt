@@ -2,4 +2,18 @@ always focus on an "investigative" learning : wherein you investigate and check 
 
 master "objects" and the "web/browser events"
 
+ -----------------------shortcuts:------------------------------------
+
+ alt + up/down arrow = shift the line
+ alt + shift + arrow = copy the entire line
+ alt + side arrows = change the files in the vs code
+
+ -----------------------identifiers:------------------------------------
+
+ identifiers and the variables can be used interchangibly, as  they are used to refer to variables and other entities in the js.
+ eg:
+ let userName = "Alice"; // `userName` is an identifier for the variable holding the string "Alice" 
+
+ ------------------------------------------------------------------------
+
  
