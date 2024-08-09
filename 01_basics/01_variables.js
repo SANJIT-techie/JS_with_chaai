@@ -21,3 +21,4 @@ so their was no concept of the global or functional variable, the variable got m
 
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+

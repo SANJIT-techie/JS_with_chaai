@@ -27,6 +27,6 @@ let userTwo = user
 userTwo.email = "pappu@bourn.com"
 
 console.log(user);
-console.log(userTwo.email);
+console.log(userTwo);
 
 

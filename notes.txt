@@ -2,11 +2,15 @@ always focus on an "investigative" learning : wherein you investigate and check 
 
 master "objects" and the "web/browser events"
 
+the string has a lot of methods for performing various operations over the string. (trim,replace)
+
+
+
  -----------------------shortcuts:------------------------------------
 
  alt + up/down arrow = shift the line
  alt + shift + arrow = copy the entire line
- alt + side arrows = change the files in the vs code
+
 
  -----------------------identifiers:------------------------------------
 

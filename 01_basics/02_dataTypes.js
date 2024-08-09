@@ -10,3 +10,15 @@
 
 // console.log("2" === 2);
 
+let name = "sanjit"
+
+let newName = new String("Bishes")
+let newNameTwo = newName
+newNameTwo = "pappu"
+
+console.log(newName);
+console.log(typeof newNameTwo);
+
+
+
+
