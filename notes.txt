@@ -4,6 +4,7 @@ master "objects" and the "web/browser events"
 
 the string has a lot of methods for performing various operations over the string. (trim,replace)
 
+the timstamp can be used to compare the time values 
 
 
  -----------------------shortcuts:------------------------------------

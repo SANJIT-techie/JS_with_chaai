@@ -10,14 +10,16 @@
 
 // console.log("2" === 2);
 
-let name = "sanjit"
+// let name = "sanjit"
 
 let newName = new String("Bishes")
 let newNameTwo = newName
-newNameTwo = "pappu"
+// newNameTwo.String = "pappu"
+
 
 console.log(newName);
-console.log(typeof newNameTwo);
+console.log(newNameTwo);
+// console.log(name);
 
 
 
