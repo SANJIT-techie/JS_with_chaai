@@ -40,14 +40,32 @@
 // console.log("02" > 1);
 
 // ----------------------------------comparision-------------------
-// console.log(null > 0);
-// console.log(null == 0);
-// console.log(null >= 0);
 
-// console.log(undefined == 0);
-// console.log(undefined > 0);
-// console.log(undefined < 0);
+// const newStringOne = "   hitesh    "
+// console.log(newStringOne);
+// console.log(newStringOne.trim());
 
-// === , also checks the data type.
+// const url = "https://hitesh.com/hitesh%20choudhary"
+// console.log(url);
 
-console.log("2" === 2);
+
+// console.log(url.replace('%20', '-'))
+
+// console.log(url.includes('sundar'))
+
+// const gameName = new String('hitesh-hc-com')
+// console.log(gameName.split('-'));
+
+let score = "33"
+
+
+console.log(typeof score);
+console.log(typeof(score));
+
+// let valueInNumber = Number(score)
+
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
+
+// let isLoggedIn = "hitesh"
+

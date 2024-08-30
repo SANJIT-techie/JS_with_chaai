@@ -72,3 +72,14 @@ console.log(gameCounter);
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
 
 
+// console.log(null > 0);
+// console.log(null == 0);
+// console.log(null >= 0);
+
+// console.log(undefined == 0);
+// console.log(undefined > 0);
+// console.log(undefined < 0);
+
+// === , also checks the data type.
+
+console.log("2" === 2);
