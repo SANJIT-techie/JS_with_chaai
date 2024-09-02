@@ -50,3 +50,5 @@ console.log(typeof myArr2);
 // const myn2 = myArr.splice(1, 3)
 // console.log("C ", myArr);
 // console.log(myn2);
+
+//when we use the splice it makes cahnges to the original array, by removing the spliced value

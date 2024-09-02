@@ -2,7 +2,7 @@
 
 // in case of literals NO singleton
 
-const mySym = Symbol("key1") //the value key1 si used just as a description
+const mySym = Symbol("key1") //the value key1 is used just as a description
 console.log(mySym);
 
 const jsUser = {
@@ -41,3 +41,4 @@ jsUser.greetingTwo = function(){
 console.log(jsUser.greeting());
 console.log(jsUser.greetingTwo());
 
+console.log(jsUser);
