@@ -30,10 +30,17 @@ and thats why when u use the == operator
 
 >>JSON formatter for formatting and beautifying the api requests
 
- -----------------------shortcuts:------------------------------------
+>>you can make snippets and using call stack in it , you can track the sequence of the execution.
+
+>>as the for in loop is used to iterate over the objects in arrays aswell it shows the indices in the key.
+
+>>
+
+------------------------shortcuts:------------------------------------
 
  alt + up/down arrow = shift the line
  alt + shift + arrow = copy the entire line
+ ctrl + Enter - to run the callstack
 
 
  -----------------------identifiers:------------------------------------

@@ -1,16 +1,17 @@
 // array
 const myArr = [0, 1, 2, 3, 4, 5]
+console.log(myArr.length);
 
-while myArr >= 0{
+while (myArr.length > 0) {
     
     myArr.shift()
 
     console.log(myArr);
 }
 
-const myHeors = ["shaktiman", "naagraj"]
+// const myHeors = ["shaktiman", "naagraj"]
 
-const myArr2 = new Array(1, 2, 3, 4)
+// const myArr2 = new Array(1, 2, 3, 4)
 // console.log(myArr[1]);
 
 // Array methods
@@ -24,7 +25,7 @@ const myArr2 = new Array(1, 2, 3, 4)
 
 // myArr.unshift(9,10)
 
-console.log(typeof myArr2);
+// console.log(typeof myArr2);
 
 
 
