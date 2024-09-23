@@ -47,4 +47,5 @@ for (const [key,value] of map){
 //     console.log(key); //it shows the keys if array which are actually the indexes, and are set by default
 //     console.log(programming[key]);
     
+
 // }
